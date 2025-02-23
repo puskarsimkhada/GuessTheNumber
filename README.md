@@ -5,3 +5,9 @@ Guess The Number is a simple and interactive number guessing game built using Re
  - Random number generation.
  - User input for guessing.
  - Hints to guide the player (higher or lower).
+
+## 🛠️ Technologies Used
+ - HTML
+ - CSS3
+ - Javascript
+ - React 
